@@ -1,0 +1,14 @@
+{
+  "name": "aquagis-mapping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Todor Lubenov",
+  "license": "MIT",
+  "scripts": {
+    "start:server": "node scripts/server.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "static-server": "^2.2.1"
+  }
+}
